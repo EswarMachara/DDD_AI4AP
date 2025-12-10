@@ -3,6 +3,17 @@
 
 > **Winner** of the Andhra Pradesh Police Digitization Problem Statement
 
+<br>
+<div align="center">
+  
+**Sai Manikanta Eswar Machara<sup>1</sup>, Nikhileswara Rao Sulake<sup>1</sup><sup>,2</sup>, Gopi Jagadeesh Mahamkali<sup>1</sup>**
+  
+<sup>1</sup>Department of Computer Science and Engineering, RGUKT Nuzvid, India<br>
+
+<sup>2</sup>School of Medical Science and Technology, IIT Kharagpur, Kolkata, India
+
+</div>
+
 ## 👥 Team & Contribution
 
 This project was collaboratively developed by a 3-member team as part of the AI-4-AP-Police initiative.  
@@ -14,17 +25,6 @@ All members contributed equally across core components of the solution, includin
 - **Sai Manikanta Eswar Machara – Team Lead**
 - **Nikhileswara Rao Sulake – Model Development & Deployment**
 - **Gopi Jagadeesh Mahamkali – UI Integration & Database Structuring**
-
-<br>
-<div align="center">
-  
-**Sai Manikanta Eswar Machara<sup>1</sup>, Nikhileswara Rao Sulake<sup>1</sup><sup>,2</sup>, Gopi Jagadeesh Mahamkali<sup>1</sup>**
-  
-<sup>1</sup>Department of Computer Science and Engineering, RGUKT Nuzvid, India<br>
-
-<sup>2</sup>School of Medical Science and Technology, IIT Kharagpur, Kolkata, India
-
-</div>
 
 ![Winners](pics/1.jpg)
 | <img src='pics/2.jpg' width='300' /> | <img src='pics/4.jpg' width='300' /> | <img src='pics/6.jpg' width='300' />|
