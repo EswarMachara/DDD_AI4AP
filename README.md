@@ -3,6 +3,17 @@
 
 > **Winner** of the Andhra Pradesh Police Digitization Problem Statement
 
+## 👥 Team & Contribution
+
+This project was collaboratively developed by a 3-member team as part of the AI-4-AP-Police initiative.  
+I served as the Team Lead, coordinating the full development cycle—problem understanding, model design, backend integration, UI workflow, and deployment strategy.  
+
+All members contributed equally across core components of the solution, including research, implementation, experimentation, and documentation. Due to technical and repository access constraints during development, the commit history appears under a teammate's GitHub account. However, the project was jointly implemented with shared responsibilities.
+
+**Contributors:**
+- **Sai Manikanta Eswar Machara – Team Lead**
+- **Nikhileswara Rao Sulake – Model Development & Deployment**
+- **Gopi Jagadeesh Mahamkali – UI Integration & Database Structuring**
 
 <br>
 <div align="center">
